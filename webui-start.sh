@@ -1,0 +1,1 @@
+poetry run python team/main.py
